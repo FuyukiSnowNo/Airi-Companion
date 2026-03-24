@@ -27,7 +27,7 @@
 
 <p float="left" align="center">
   <!-- readme-section:release-binary-windows -->
-  <a href="https://github.com/moeru-ai/airi/releases/download/v0.9.0-alpha.18/AIRI-0.9.0-alpha.18-windows-x64-setup.exe">
+  <a href="https://github.com/FuyukiSnowNo/Airi-Companion/releases/download/v0.9.0-alpha.18/AIRI-0.9.0-alpha.18-windows-x64-setup.exe">
     <picture>
       <source
         width="33%"
@@ -43,7 +43,7 @@
     </picture>
   </a>
   <!-- readme-section:release-binary-macos -->
-  <a href="https://github.com/moeru-ai/airi/releases/download/v0.9.0-alpha.18/AIRI-0.9.0-alpha.18-darwin-arm64.dmg">
+  <a href="https://github.com/FuyukiSnowNo/Airi-Companion/releases/download/v0.9.0-alpha.18/AIRI-0.9.0-alpha.18-darwin-arm64.dmg">
     <picture>
       <source
         width="33%"
@@ -58,7 +58,7 @@
       <img width="33%" src="./docs/content/public/assets/download-buttons/download-buttons.macos.light.en-US.avif" />
     </picture>
   </a>
-  <a href="https://github.com/moeru-ai/airi/releases/latest">
+  <a href="https://github.com/FuyukiSnowNo/Airi-Companion/releases/latest">
     <picture>
       <source
         width="33%"
